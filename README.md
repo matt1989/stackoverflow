@@ -1,4 +1,4 @@
-### README file
+### README file eddited by Mateusz
 ### Table of Contents
 
 1. [Installation](#installation)
